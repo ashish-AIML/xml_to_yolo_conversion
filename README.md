@@ -24,6 +24,6 @@ class_names["shoes"]     =4
 ---
 ## License & Copyright
 
-@ Teric-AI Team
+@ Ashish & Team
 
 ***
